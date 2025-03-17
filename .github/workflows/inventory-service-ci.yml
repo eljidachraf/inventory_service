@@ -42,4 +42,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: achrafeljid/imagesrepository:latest
+        tags: achrafeljid/imagerepository:latest
