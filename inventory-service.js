@@ -7,7 +7,7 @@ const PORT = 3000;
 // Mock Inventory Data
 let inventory = {
   'item1': { name: 'Item 1', quantity: 10 },
-  'item2': { name: 'Item 2', quantity: 15 }
+  'item2': { name: 'Item 2', quantity: 25 }
 };
 
 app.use(bodyParser.json());
